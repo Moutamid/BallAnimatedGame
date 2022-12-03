@@ -1,4 +1,4 @@
-package com.moutamid.ballanimatedgame;
+package com.example.ballanimatedgame;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -15,12 +15,9 @@ import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
-import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
 

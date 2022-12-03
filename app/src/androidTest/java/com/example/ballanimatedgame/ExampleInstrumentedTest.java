@@ -1,4 +1,4 @@
-package com.moutamid.ballanimatedgame;
+package com.example.ballanimatedgame;
 
 import android.content.Context;
 

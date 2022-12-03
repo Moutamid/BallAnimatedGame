@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.moutamid.ballanimatedgame'
+    namespace 'com.example.ballanimatedgame'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.moutamid.ballanimatedgame"
+        applicationId "com.example.ballanimatedgame"
         minSdk 21
         targetSdk 32
         versionCode 1
